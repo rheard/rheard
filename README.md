@@ -1,4 +1,4 @@
-# Hello, Mars! I'm Ryan Heard 👋
+# Hello, Mars!
 
 I'm a passionate Software Engineer with a strong interest in Python, algorithmic puzzles, game modding, and contributing to the open-source community.
 
