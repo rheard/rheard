@@ -6,6 +6,7 @@ I'm a passionate Software Engineer with a strong interest in Python, algorithmic
 * Solving complex algorithmic problems, like the magic square of squares problem.
 * Continuously contributing to open-source projects like Django.
 * Exploring how to use Python with other technologies like C-acceleration or C# integration.
+* Evolving my skillsets, both personally and professionally.
 * Reverse engineering video games.
 * Buzzword(s): AI-generated content, quantum, ...
 
