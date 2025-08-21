@@ -12,6 +12,8 @@ I'm a passionate Software Engineer with a strong interest in Python, algorithmic
 
 ## 📚 Important Repositories
 * [Project Euler](https://github.com/rheard/ProjectEuler): My attempts at solving Project Euler problems.
+* [complexint](https://github.com/rheard/complexint): A version of Python's `complex` backed by `int` instead of `double`.
+* [twosquares](https://github.com/rheard/twosquares): A Python package for computing all solutions of the form $n = x^2 + y^2$ for any $n$ as efficiently as possible.
 * [Magic Square of Squares](https://github.com/rheard/magic_sq): A solution for the magic square of squares problem using Python and C++.
 * [Python NetForms](https://github.com/rheard/pynetforms): A Pythonic library for using NetForms.
 * [Python Net GUI Automation](https://github.com/rheard/pynetauto): A Pythonic library for using C# GUI Automation libraries.
