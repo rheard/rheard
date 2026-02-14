@@ -15,8 +15,7 @@ Current obsessions are number theory, factorization, optimizations, and useful a
 * [Python NetForms](https://github.com/rheard/pynetforms): A Pythonic library for using NetForms.
 * [Python Net GUI Automation](https://github.com/rheard/pynetauto): A Pythonic library for using C# GUI Automation libraries.
 
-### 🏺 Ancient Repos
-
+## 🏺 Ancient Repos
 While these are important repositories, this is work that I haven't touched in a long time and are more useful as archives.
 * [Xbox 360 Disc Integrity Checker](https://github.com/rheard/Xbox360DiscIntegrityChecker): A system to verify the integrity of Xbox 360 game discs.
 * [The Tesseract on Xbox 360 for Black Ops 2](https://github.com/rheard/The-Tesseract-on-Xbox-360-for-Black-Ops-2): A modding platform for Black Ops 2 on the Xbox 360.
