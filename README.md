@@ -19,7 +19,7 @@ Current obsessions are number theory, factorization, optimizations, and useful a
 While these are important repositories, this is work that I haven't touched in a long time and are more useful as archives.
 * [Xbox 360 Disc Integrity Checker](https://github.com/rheard/Xbox360DiscIntegrityChecker): A system to verify the integrity of Xbox 360 game discs.
 * [The Tesseract on Xbox 360 for Black Ops 2](https://github.com/rheard/The-Tesseract-on-Xbox-360-for-Black-Ops-2): A modding platform for Black Ops 2 on the Xbox 360.
-* [The Tesseract on Xbox 360 for Modern Warfare 2](https://github.com/rheard/The-Tesseract-on-Xbox-360-for-Modern-Warfare-2): A modding plateform for Modern Warfare 2 on the Xbox 360.
+* [The Tesseract on Xbox 360 for Modern Warfare 2](https://github.com/rheard/The-Tesseract-on-Xbox-360-for-Modern-Warfare-2): A modding platform for Modern Warfare 2 on the Xbox 360.
 * [CUDA BigInteger](https://github.com/rheard/BigInteger-for-CUDA): My attempt at implementing a BigInteger solution that would support CUDA. I would not recommend anyone try to use this.
 
 ## 🎈 Open-Source Contributions
