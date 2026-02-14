@@ -4,7 +4,7 @@ I'm a passionate a software engineer who likes **fast Python** and **weird math*
 
 Current obsessions are number theory, factorization, performance, useful apps.
 
-## 📚 Important Repositories
+## 📚 Important Repos
 * [twosquares](https://github.com/rheard/twosquares): A Python package for computing all solutions of the form $n = x^2 + y^2$ for any $n$ as efficiently as possible.
 * [quadint](https://github.com/rheard/quadint): A Python package for quadratic integers, including a version of Python's `complex` backed by `int` instead of `double`.
 * [Magic Square of Squares](https://github.com/rheard/magic_sq): A solution for the magic square of squares problem using Python and C++.
@@ -15,7 +15,7 @@ Current obsessions are number theory, factorization, performance, useful apps.
 * [Python NetForms](https://github.com/rheard/pynetforms): A Pythonic library for using NetForms.
 * [Python Net GUI Automation](https://github.com/rheard/pynetauto): A Pythonic library for using C# GUI Automation libraries.
 
-### 🏺 Ancient Repositories
+### 🏺 Ancient Repos
 
 While these are important repositories, this is work that I haven't touched in a long time and are more useful as archives.
 * [Xbox 360 Disc Integrity Checker](https://github.com/rheard/Xbox360DiscIntegrityChecker): A system to verify the integrity of Xbox 360 game discs.
