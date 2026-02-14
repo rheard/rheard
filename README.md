@@ -2,7 +2,7 @@
 
 I'm a passionate a software engineer who likes **fast Python** and **weird math**.
 
-Current obsessions are number theory, factorization, performance, useful apps.
+Current obsessions are number theory, factorization, optimizations, and useful apps.
 
 ## 📚 Important Repos
 * [twosquares](https://github.com/rheard/twosquares): A Python package for computing all solutions of the form $n = x^2 + y^2$ for any $n$ as efficiently as possible.
