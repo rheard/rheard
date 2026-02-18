@@ -7,7 +7,8 @@ Current obsessions are number theory, factorization, optimizations, and useful a
 ## 📚 Important Repos
 * [twosquares](https://github.com/rheard/twosquares): A Python package for computing all solutions of the form $n = x^2 + y^2$ for any $n$ as efficiently as possible.
 * [quadint](https://github.com/rheard/quadint): A Python package for quadratic integers, including a version of Python's `complex` backed by `int` instead of `double`.
-* [Magic Square of Squares](https://github.com/rheard/magic_sq): A solution for the magic square of squares problem using Python and C++.
+* [pixmatch](https://github.com/rheard/pixmatch): A modern VisiPics replacement—cross-platform duplicate-image finder that scans folders + ZIPs for visually similar images (including GIFs/animated WebP) and lets you quickly keep/ignore/delete.
+* [Magic Square of Squares](https://github.com/rheard/magic_sq): A solution for the magic square of squares problem.
 
 ## 📦 Other stuff
 * [quatint](https://github.com/rheard/quatint): Similar to `quadint`, this is a package for dealing with quaternions that have all integer or all half-integer values. 
